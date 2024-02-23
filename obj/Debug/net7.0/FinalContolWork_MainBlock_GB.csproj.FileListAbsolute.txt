@@ -1,0 +1,14 @@
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\bin\Debug\net7.0\FinalContolWork_MainBlock_GB.exe
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\bin\Debug\net7.0\FinalContolWork_MainBlock_GB.deps.json
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\bin\Debug\net7.0\FinalContolWork_MainBlock_GB.runtimeconfig.json
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\bin\Debug\net7.0\FinalContolWork_MainBlock_GB.dll
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\bin\Debug\net7.0\FinalContolWork_MainBlock_GB.pdb
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.GeneratedMSBuildEditorConfig.editorconfig
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.AssemblyInfoInputs.cache
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.AssemblyInfo.cs
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.csproj.CoreCompileInputs.cache
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.dll
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\refint\FinalContolWork_MainBlock_GB.dll
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.pdb
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\FinalContolWork_MainBlock_GB.genruntimeconfig.cache
+E:\ladomitory\Users\Ladomitory\Projects\IT projects\For Study\GeekBrains\FinalContolWork_MainBlock_GB\obj\Debug\net7.0\ref\FinalContolWork_MainBlock_GB.dll

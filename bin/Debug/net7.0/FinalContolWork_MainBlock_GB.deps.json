@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FinalContolWork_MainBlock_GB/1.0.0": {
+        "runtime": {
+          "FinalContolWork_MainBlock_GB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalContolWork_MainBlock_GB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
